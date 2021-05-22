@@ -17,6 +17,9 @@ body {
   font-size: 30px;
 }
 
+.neriko h1:hover {
+  color: red;
+}
 .neriko h4 {
   color: green;
   font-size: 100px;
